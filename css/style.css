@@ -109,12 +109,12 @@ h3 {
 
 .main-nav li {
   display: inline-block;
-  margin-left: 40px;
+  margin-left: 18px;
 }
 
 .main-nav li a:link,
 .main-nav li a:visited {
-  padding: 10px 0;
+  padding: 8px 0;
   color: #fff;
   text-decoration: none;
   text-transform: uppercase;
@@ -144,7 +144,7 @@ h3 {
 
 .sticky .main-nav li a:link,
 .sticky .main-nav li a:visited {
-  padding: 16px 0;
+  padding: 5px 0;
   color: #555;
 }
 
