@@ -496,7 +496,13 @@ input[type="checkbox"] {
 *:focus {
   outline: none;
 }
-
+.made{
+  color: #000;
+  font: arial ;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 10px;
+}
 footer {
   background-color: #e67e22;
   padding: 50px;
@@ -562,8 +568,11 @@ footer p {
   color: #244999;
 }
 
-.twitter:hover {
-  color: #39a2f1;
+.linkedin:hover{
+  color:rgba(19, 92, 201, 0.76);
+}
+.github:hover {
+  color: #c133dd;
 }
 
 .instagram:hover {
